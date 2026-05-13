@@ -106,16 +106,13 @@ export function Header() {
 
           {/* CTA */}
           <div className="hidden items-center gap-3 md:flex">
-            <a
-              href={`tel:${CONTACT.phones[0].replace(
-                /\s+/g,
-                ""
-              )}`}
-              className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-4 py-2 backdrop-blur-xl text-xs uppercase tracking-[0.25em] text-white/75 shadow-glass"
-            >
-              <Phone className="h-4 w-4 text-gold" />
-              Call Now
-            </a>
+          <Link
+  to="/contact"
+  className="inline-flex items-center gap-2 rounded-full glass px-5 py-2.5 text-sm font-medium transition-all duration-300 hover:bg-white/10"
+>
+  <Phone className="h-4 w-4 text-gold" />
+  Call Now
+</Link>
 
             <Link
               to="/contact"
