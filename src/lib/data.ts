@@ -50,5 +50,5 @@ export const CONTACT = {
   phones: ["", ""],
   email: "",
   whatsapp: "",
-  address: ",
+  address: "",
 };
