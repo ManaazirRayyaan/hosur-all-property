@@ -50,5 +50,5 @@ export const CONTACT = {
   phones: ["", ""],
   email: "",
   whatsapp: "",
-  address: "Hosur, Tamil Nadu 635109, India",
+  address: ",
 };
