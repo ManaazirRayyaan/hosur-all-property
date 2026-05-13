@@ -590,10 +590,10 @@ function CtaBanner() {
               </Link>
 
               <a
-                href="tel:+919500391129"
+                href="tel:"
                 className="rounded-full glass px-6 py-3 text-sm font-medium"
               >
-                Call +91 95003 91129
+                Call 
               </a>
             </div>
           </div>

@@ -47,8 +47,8 @@ export const STATS = [
 export const LOCATIONS = ["Hosur", "Bangalore", "Rayakottai", "Denkanikottai", "Thally", "Soolagiri", "Krishnagiri"];
 
 export const CONTACT = {
-  phones: ["+91 95003 91129", "+91 93620 08900"],
-  email: "hosurallproperty.com2009@gmail.com",
-  whatsapp: "919500391129",
+  phones: ["", ""],
+  email: "",
+  whatsapp: "",
   address: "Hosur, Tamil Nadu 635109, India",
 };
